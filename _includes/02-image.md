@@ -1,1 +1,2 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+## This is my portrait
+![My portrait](https://github.com/Happy-Ding/Happy-Ding.github.io/blob/hexo/img/portrait.jpg)
